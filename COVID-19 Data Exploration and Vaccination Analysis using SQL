@@ -1,11 +1,22 @@
-Project Title: COVID-19 Data Exploration and Vaccination Analysis
+Project Heading: Covid-19 Data Analysis and Visualization using SQL
 
-Project Summary:
+Summary :
 
-1. Conducted in-depth data exploration and analysis on COVID-19 related data, 
-including total cases, total deaths, infection rates, death rates, and vaccination coverage across various countries and continents.
+1. Covid-19 Impact Analysis:
+   - Conducted a comprehensive analysis of Covid-19 data, exploring cases, deaths, and vaccinations globally and by location and continent.
+   - Utilized SQL skills, including joins, CTEs, temp tables, aggregate functions, and window functions to process and analyze the data effectively.
 
-2. Implemented advanced SQL techniques, such as Joins, CTEs, Temp Tables, Window Functions, and Aggregate Functions, 
-to calculate and visualize key metrics like death percentage, population infection rate, and percentage of the population vaccinated. 
-Created a View to store processed data for future visualizations and reporting. 
-The project aimed to provide insights into the COVID-19 pandemic's impact on different regions and the progress of vaccination efforts globally.
+2. Infection and Mortality Rates:
+   - Calculated and compared the likelihood of dying if contracting Covid-19 in different countries.
+   - Explored the percentage of the population infected with Covid-19 in various countries, highlighting regions with the highest infection rates.
+
+3. Vaccination Progress:
+   - Investigated the percentage of the population that received at least one Covid-19 vaccine dose.
+   - Utilized rolling calculations to track the number of vaccinated people over time in each location, providing insights into vaccination trends.
+
+4. Data Visualization:
+   - Created a view to store essential data for later visualizations and data presentations.
+   - Prepared meaningful visualizations using the processed data, contributing to clear communication of insights to stakeholders.
+
+Overall, this project showcased strong data analysis skills, SQL proficiency, 
+and data visualization expertise in understanding the impact of the Covid-19 pandemic on different regions and populations.
