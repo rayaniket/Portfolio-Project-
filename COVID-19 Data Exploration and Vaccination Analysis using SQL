@@ -1,0 +1,11 @@
+Project Title: COVID-19 Data Exploration and Vaccination Analysis
+
+Project Summary:
+
+1. Conducted in-depth data exploration and analysis on COVID-19 related data, 
+including total cases, total deaths, infection rates, death rates, and vaccination coverage across various countries and continents.
+
+2. Implemented advanced SQL techniques, such as Joins, CTEs, Temp Tables, Window Functions, and Aggregate Functions, 
+to calculate and visualize key metrics like death percentage, population infection rate, and percentage of the population vaccinated. 
+Created a View to store processed data for future visualizations and reporting. 
+The project aimed to provide insights into the COVID-19 pandemic's impact on different regions and the progress of vaccination efforts globally.
